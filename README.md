@@ -1,5 +1,5 @@
 <h1 align="center">Greetings fellow traveler, my name is Eduardo Cabello</h1>
-<h3 align="center">I'm a professional and passionate Software engineer and game developer from Venezuela/Colombia. Currently based in Vancouver B.C. I've always been interested in games since I was very young, playing many types growing up and the more I did, the more I appreaciate all the different aspects and parts that compose a game like music, programming, art, etc. This made me decide to start my journey as a game developer and help create many different experiences in games.</h3>
+<h3 align="center">I'm a professional and passionate Software engineer and game developer from Venezuela/Colombia. Currently based in Bogotá, Colombia. I've always been interested in games since I was very young, playing many types growing up and the more I did, the more I appreaciate all the different aspects and parts that compose a game like music, programming, art, etc. This made me decide to start my journey as a game developer and help create many different experiences in games.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
